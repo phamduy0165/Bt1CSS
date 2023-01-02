@@ -1,0 +1,28 @@
+.header{
+    background: #1abc9c;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+  
+.gallery:hover {
+    border: 1px solid #777;
+}
+  
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-weight: 1000;
+}
